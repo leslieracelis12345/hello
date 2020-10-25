@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<html lang="en"
+
+head
+     meta charset="UTF-8"
+     meta name="viewfort" content="width=device-,initial-scale=1.0"
+     <title NAME LIST</titl>
+
+  <link href="C:\Users\camil\OneDrive\Desktop\final.txt" rel="stylesheet" type="text/ccs">
+
+</head>
+
+<table border="1">
+     <tr>
+          <th width="10%">Header 1</th>
+          <th width="20%">Header 2</th>
+          <th width="20%">Header 3</3th>
+     </tr>
+
+     <tr>
+          <td>
+               <ul> 
+                   <li>NAMES</li>
+                       <ul>
+                           <li>Jissoo</li>
+                           <li>Jennie</li>
+                           <li>Rose</li>
+                           <li>Lisa</li>
+                         </ul>
+                </ul>
+             </td>
+   
+                  <td>
+                       <table border>
+                        <li> it describe them</li>
+                         <tr><th>pretty</th><td>talented</td></th>
+                         <tr><th>hot</th><td>kind</td></th>
+                   </table>
+                 </td>              
+
+      <td>
+          <img src="blackpink.JPGF">
+      </td>
+<tr>
+          <td>1
+               <ul> 
+                   <li>NAMES</li>
+                       <ul>
+                           <li>Jissoo</li>
+                           <li>Jennie</li>
+                           <li>Rose</li>
+                           <li>Lisa</li>
+                         </ul>
+                </ul>
+             </td>
+
+<td>row 1,cell 2 <a href="http:www.google.com/">Google</a></td>
+
+
+</table>
+</html>
